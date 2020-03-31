@@ -9,4 +9,4 @@ let b = 'Var b'
 }
 console.log(a)     // new A
 console.log(b)     // Var b
-console.log(c)
+console.log(c)     // error
